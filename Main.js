@@ -16,3 +16,7 @@ console.log("Sum:", 2 + 3);
 // Git remote -> github vs gitlab  
 
 console.log("Code đang chạy rồi");
+console.log("Sum:", 2 + 4);
+console.log("Sum:", 2 + 5);
+
+
